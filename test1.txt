@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 483C-4BC0
-
- Directory of C:\Users\Administrator\Desktop\MyProject
-
-05/28/2020  10:30 AM    <DIR>          .
-05/28/2020  10:30 AM    <DIR>          ..
-05/28/2020  10:30 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  255,222,558,720 bytes free
+ffdg
